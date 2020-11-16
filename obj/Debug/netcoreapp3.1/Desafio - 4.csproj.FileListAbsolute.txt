@@ -1,0 +1,13 @@
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Desafio - 4\bin\Debug\netcoreapp3.1\Desafio - 4.exe
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Desafio - 4\bin\Debug\netcoreapp3.1\Desafio - 4.deps.json
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Desafio - 4\bin\Debug\netcoreapp3.1\Desafio - 4.runtimeconfig.json
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Desafio - 4\bin\Debug\netcoreapp3.1\Desafio - 4.runtimeconfig.dev.json
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Desafio - 4\bin\Debug\netcoreapp3.1\Desafio - 4.dll
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Desafio - 4\bin\Debug\netcoreapp3.1\Desafio - 4.pdb
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Desafio - 4\obj\Debug\netcoreapp3.1\Desafio - 4.csprojAssemblyReference.cache
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Desafio - 4\obj\Debug\netcoreapp3.1\Desafio - 4.AssemblyInfoInputs.cache
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Desafio - 4\obj\Debug\netcoreapp3.1\Desafio - 4.AssemblyInfo.cs
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Desafio - 4\obj\Debug\netcoreapp3.1\Desafio - 4.csproj.CoreCompileInputs.cache
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Desafio - 4\obj\Debug\netcoreapp3.1\Desafio - 4.dll
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Desafio - 4\obj\Debug\netcoreapp3.1\Desafio - 4.pdb
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Desafio - 4\obj\Debug\netcoreapp3.1\Desafio - 4.genruntimeconfig.cache
